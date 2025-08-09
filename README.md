@@ -3,4 +3,5 @@ Trabajo en grupo
 
 
 # Link Google Coolab
-https://colab.research.google.com/drive/1CFmwP7RZufYa2W6dY21c0cz7YH-DSJPn?usp=sharing
+https://colab.research.google.com/github/Pala63/Entrega_final_prueba_practica/blob/main/Entrega_final.ipynb
+
